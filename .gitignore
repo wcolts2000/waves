@@ -1,0 +1,12 @@
+node_modules
+
+/build
+
+/client/node_modules
+
+yarn-debug.log*
+yarn-error.log*
+
+*.env
+*/*.env
+/*/*.env
