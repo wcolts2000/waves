@@ -77,4 +77,5 @@ app.post("/api/users/login", (req, res) => {
 
 const port = process.env.port || 8081;
 
-app.listen(port, console.log(`\n === Server Listening On Port ${port} === \n`));
+app.listen(port, () => {
+  console.log(`\n === Server Listening On Port ${port} === \n`)});
