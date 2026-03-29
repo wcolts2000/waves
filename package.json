@@ -12,7 +12,7 @@
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.4",
     "mongoose": "^8.9.5",
-    "multer": "^1.4.1"
+    "multer": "^2.1.0"
   },
   "name": "waves",
   "description": "a react and mongoDB eCommerce site",
